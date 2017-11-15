@@ -1,4 +1,4 @@
-##Project: Movie Trailer Website
+## Project: Movie Trailer Website
 
 This project showcases my favorite movies, including their title, box art and YouTube links to movie trailers. 
 
@@ -12,9 +12,9 @@ Code can be run in Python 2.7 versions that can be downloaded from the [Python d
 To open the movie trailer website, open and run the entertainment_center.py module using IDLE. This module instantiates movie objects by calling the constructor media.Movie() and creates an HTML file that loads on your default webbrowser. 
 
 **Relative links**
-fresh_tomatoes.py can be found at [GitHub](https://github.com/udacity/ud036_StarterCode)
+fresh_tomatoes.py can be found at this [Udacity GitHub repo](https://github.com/udacity/ud036_StarterCode)
 
-The project details were prescribed by [Udacity’s Programming Foundations with Python](https://classroom.udacity.com/courses/ud036) course. 
+Further project details can be found at [Udacity’s Programming Foundations with Python ](https://classroom.udacity.com/courses/ud036) course. 
 
 **License**
 MIT License
